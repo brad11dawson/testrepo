@@ -1,1 +1,2 @@
-Hello World! This is a test repository for CS 246. Its time to git to work.
+Hello World! This is a test repository for CS 246. Its time to git to work!
+Lets pull some strings and see how this works out.
